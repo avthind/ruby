@@ -1,7 +1,7 @@
 ## ruby
 
 #### Front End Development Projects
-Front End Development Libraries Projects (freeCodeCamp Certification)
+Front End Development Libraries Projects (freeCodeCamp Certification) <br />
 25 + 5 Clock <br />
 Drum Machine <br />
 JavaScript Calculator <br />
@@ -9,7 +9,7 @@ Markdown Previewer <br />
 Random Quote Machine <br />
 
 #### Python Data Analysis Projects
-Data Analysis with Python Projects (freeCodeCamp Certification)
+Data Analysis with Python Projects (freeCodeCamp Certification) <br />
 Demographic Data Analyzer <br />
 Mean-Variance-Standard Deviation Calculator <br />
 Medical Data Visualizer <br />
